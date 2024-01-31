@@ -14,10 +14,29 @@ export const portfolio = {
         facebookLink: "https://www.facebook.com/",
         twitterLink: "https://twitter.com/",
         heading: "Hi all, I'm Dhruvi Shah",
-        paragraph: "Just a normal coder who loves to develop end-user applications by applying software design and development principles. My area of interest includes Android development, Web development, Software development, and Cloud technologies. I can help you to build your amazing idea. Let's connect and keep in touch",
+        paragraph: "A passionate coder with a penchant for crafting end-user applications through the thoughtful application of software design and development principles. My expertise spans Android development, Web development, Software development, and Cloud technologies. I'm here to bring your brilliant ideas to life. Let's connect and stay in touch!",
         resumeLink: "Resume"
     },
     experiences: [
+        {
+            company: "90Seond Health | Halifax, CA",
+            position: "Full Stack Developer | June 2023 - Current",
+            projects: [
+                {
+                    name: "Healthletters system",
+
+                }
+            ],
+            work: [
+
+                "Managed and maintained a dynamic web system powered by Drupal, a highly customizable content management system, utilizing strong proficiency in MySQL and PHP.",
+                "Utilized MySQL and PHP expertise to ensure seamless integration of database functionalities within the Drupal environment.",
+                "Enhanced frontend user experience through proficient use of JavaScript, CSS, and HTML5, resulting in an improved interface for subscribers.",
+                "Collaborated with the development team to implement customized solutions, leveraging Drupal's advanced features to enhance the system's performance.",
+                "Demonstrated rapid adaptability by quickly acquiring essential Drupal skills, capitalizing on existing MySQL and PHP knowledge and testing the web system.",
+                "Actively contributed to technical discussions, leveraging cross-functional skills to bridge the gap between backend database management and frontend UI/UX improvements."
+            ]
+        },
         {
             company: "Eadie Technologies | Halifax, CA",
             position: "Software Developer | May 2022 - Dec 2022",
@@ -77,7 +96,7 @@ export const portfolio = {
             name: "Dalhousie University | Halifax, CA",
             years: "Jan 2021 - Sept 2022",
             course: "Master of Applied Computer Science",
-            cgpa: "3.5/5",
+            //cgpa: null,
             image: dalhousie_university_image,
             imageAlt: "Dalhousie University Logo and Text",
 
@@ -87,7 +106,7 @@ export const portfolio = {
             name: "Gujarat Technological University | Ahmedabad, IN",
             years: "Jul 2016 - May 2020",
             course: "Bachelors in Computer Engineering",
-            cgpa: "8.06/10",
+            //cgpa: null,
             image: gujarat_technological_university_image,
             imageAlt: "Gujarat Technological University Logo and Text",
 
