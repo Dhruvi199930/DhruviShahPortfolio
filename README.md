@@ -1,52 +1,35 @@
-echo "hello world"
-<!DOCTYPE html>
+# Portfolio Project ✨
+Dhruvi's portfolio website developed using [ReactJS](https://reactjs.org/), [Material-UI](https://v4.mui.com/), [Lottie Animations](https://www.npmjs.com/package/react-lottie), and [AOS](https://www.npmjs.com/package/aos) (Animate On Scroll) library.
 
-<html lang="en">
+## Prerequisites 
+To have a local copy of this portfolio website up and running on your local machine, you will first need to install the following software/libraries/plugins:
 
-<head>
-    <meta charset="utf-8" />
-    <meta name="theme-color" content="#000000" />
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1, user-scalable=0, maximum-scale=1, minimum-scale=1" />
-    <meta name="keywords"
-        content="Dhruvi Shah, Software Engineer, Software Developer, Full Stack Developer, Android Developer, Portfolio Website" />
-    <meta name="type" property="og:type" content="Website" />
-    <meta name="title" property="og:title" content="Dhruvi Shah" />
-    <meta name="description" property="og:description" content="Dhruvi Shah Portfolio Website" />
-    <meta name="image" property="og:image" content="%PUBLIC_URL%/Dhruvi_shah_landscape.jpg" />
-    <meta name="author" content="Dhruvi Shah" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
+* [Node](https://nodejs.org/en/) - Download and install Node, which also includes NPM (Node Package Manager).
+* [Visual Studio Code](https://code.visualstudio.com/) - Download and install VS Code or any Editor/IDE(Integrated Development Environment) of your choice.
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>Dhruvi Shah Portfolio Website</title>
-</head>
+## Installations 
+Steps on how to get this development env running. We'll use Node and NPM.
+* Head to the official Node website to download and install Node, which also includes NPM.
+* Select the "Recommended For Most Users" button and download the current version for your Operating System.
+* After you download and install Node, open command prompt/terminal and run the following commands to check if everything works:
+* node -v
+* npm -v
+* To run this project, clone it on your local machine and go to the directory where the project is installed using "cd <folder_name>".
+* Run "npm install" to install all the dependencies used by this project.
+* Finally, run "npm start" to see it on the localhost.
 
-<body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+## Available Scripts 
+### `npm start`
+Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+## Built With 
+* [React](https://reactjs.org/) - Frontend framework.
+* [NPM](https://www.npmjs.com/) - The package manager for [Node](https://nodejs.org/).
+* [Vercel](https://vercel.com/) - For hosting the website.
+* [Git](https://git-scm.com/) - Git for version control
+* [GitHub](https://github.com/) - For hosting the code.
+* [Visual Studio Code](https://code.visualstudio.com/download) - The source code editor.
+* [Google Chrome](https://www.google.com/intl/en_in/chrome/) - Browser used to visualize the changes
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-</body>
-
-</html>
+## Make it your own 
+[portfolio.json](https://github.com/Dhruvi199930) - Change this file to make this porfolio website your own. 
