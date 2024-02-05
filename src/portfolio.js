@@ -33,7 +33,7 @@ export const portfolio = {
                 "Utilized MySQL and PHP expertise to ensure seamless integration of database functionalities within the Drupal environment.",
                 "Enhanced frontend user experience through proficient use of JavaScript, CSS, and HTML5, resulting in an improved interface for subscribers.",
                 "Collaborated with the development team to implement customized solutions, leveraging Drupal's advanced features to enhance the system's performance.",
-                "Demonstrated rapid adaptability by quickly acquiring essential Drupal skills, capitalizing on existing MySQL and PHP knowledge and testing the web system.",
+                "Actively contributed to technical discussions, leveraging cross-functionalskills to bridge the gap between backend database management andfrontend UI/UX improvements",
                 "Actively contributed to technical discussions, leveraging cross-functional skills to bridge the gap between backend database management and frontend UI/UX improvements."
             ]
         },
@@ -122,6 +122,13 @@ export const portfolio = {
         dataScience: ["Hadoop", "NumPy", "Pandas", "Keras"]
     },
     projects: [
+        {
+            projectName: "Portfolio Website",
+            projectTechnologies: ["React.js", "Material UI", "Node.js", "NPM", "Git", "GitHub"],
+            projectAbout: "Developed portfolio using a modern tech stack including ReactJS, Material-UI,Lottie Animations, and AOS (Animate On Scroll) library.",
+            projectGitHubLink: null,
+            projectDeploymentLink: null
+        },
         {
             projectName: "University Management System",
             projectTechnologies: ["React.js", "Material UI", "Express.js", "Node.js", "NPM", "AWS", "GCP", "Git", "GitHub", "Docker"],
