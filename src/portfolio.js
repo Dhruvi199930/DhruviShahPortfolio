@@ -124,7 +124,7 @@ export const portfolio = {
     projects: [
         {
             projectName: "Portfolio Website",
-            projectTechnologies: ["React.js", "Material UI", "Node.js", "NPM", "Lottie Animations", "Git", "GitHub"],
+            projectTechnologies: ["React.js", "Material UI", "Node.js", "NPM", "Lottie Animations", "AOS", "Git", "GitHub"],
             projectAbout: "Developed portfolio using a modern tech stack including ReactJS, Material-UI,Lottie Animations, and AOS (Animate On Scroll) library.",
             projectGitHubLink: null,
             projectDeploymentLink: null
