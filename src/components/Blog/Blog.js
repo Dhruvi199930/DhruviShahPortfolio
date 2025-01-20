@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-import { Divider, Grid, Typography, Avatar, Card, CardHeader, CardContent, CardActions, IconButton } from '@material-ui/core';
-import { Link } from '@material-ui/icons';
+import { Divider, Grid, Typography, Avatar, Card, CardHeader, CardContent, CardActions, /*IconButton*/ } from '@material-ui/core';
+//import { Link } from '@material-ui/icons';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { portfolio } from '../../portfolio.js';

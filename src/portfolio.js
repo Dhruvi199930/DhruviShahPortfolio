@@ -1,4 +1,4 @@
-import dhruvi_about_image from './assets/dhruvi_images/dhruvi_image_1.jpg';
+import dhruvi_about_image from './assets/dhruvi_images/dhruvi_image_4.jpg';
 import dalhousie_university_image from './assets/education_images/dalhousie_university.jpg';
 import gujarat_technological_university_image from './assets/education_images/gujarat_technological_university.jpg';
 import medium_logo from './assets/logo_images/medium_logo.jpg';
@@ -121,11 +121,32 @@ export const portfolio = {
         versionControl: ["Git", "GitHub", "GitLab", "BitBucket", "Azure DevOps", "Gerrit"],
         dataScience: ["Hadoop", "NumPy", "Pandas", "Keras"]
     },
+
     projects: [
         {
             projectName: "Portfolio Website",
             projectTechnologies: ["React.js", "Material UI", "Node.js", "NPM", "Lottie Animations", "AOS", "Git", "GitHub"],
             projectAbout: "Developed portfolio using a modern tech stack including ReactJS, Material-UI,Lottie Animations, and AOS (Animate On Scroll) library.",
+            projectGitHubLink: null,
+            projectDeploymentLink: null
+        },
+        {
+            projectName: "JobApplicationPlatfrom",
+            projectTechnologies: ["React.js", "Material UI", "Express.js", "Node.js", "NPM", "Git", "GitHub", "Docker"],
+            projectAWSTechnologies: null,
+            projectGCPTechnologies: null,
+            //projectDuration: "Jul 2019 - June 2020",
+            projectAbout: "Our project aims to create a user-friendly job application platform that simplifies the job-hunting process.The platform is designed to streamline the application process, making it easier for job seekers to find and apply for the right opportunities efficiently.",
+            projectGitHubLink: null,
+            projectDeploymentLink: null
+        },
+        {
+            projectName: "OnlineDriveApplication",
+            projectTechnologies: ["React.js", "UUID", "ReactHooks", "Node.js", "NPM", "Git", "GitHub", "Docker"],
+            projectAWSTechnologies: null,
+            projectGCPTechnologies: null,
+            //projectDuration: "Jul 2019 - June 2020",
+            projectAbout: "An intuitive file and folder management system built with React. This application simulates the basic functionalities of an online file storage system like Google Drive. Users can create, rename, delete, and navigate through folders and files.",
             projectGitHubLink: null,
             projectDeploymentLink: null
         },
@@ -160,16 +181,7 @@ export const portfolio = {
             projectGitHubLink: null,
             projectDeploymentLink: null
         },
-        {
-            projectName: "Programming Hub ",
-            projectTechnologies: ["Java", "SpringBoot", "JUnit", "Maven", "Git", "GitLab", "IntelliJ", "Data Structures", "Algorithms"],
-            projectAWSTechnologies: null,
-            projectGCPTechnologies: null,
-            projectDuration: "Jul 2019 - June 2020",
-            projectAbout: "It was my final year project in my bachelors of engineering where we created an app for the students to get all the required materials online and to guide them through their academic career. There was admin and user side. In user side user can log in and search for their required material. More benefits about this app are when user will get notification every time any new material related to their search is available.",
-            projectGitHubLink: null,
-            projectDeploymentLink: null
-        },
+
 
     ],
     blogs: [
