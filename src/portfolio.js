@@ -171,16 +171,16 @@ export const portfolio = {
             projectGitHubLink: null,
             projectDeploymentLink: null
         },
-        {
-            projectName: "Simple RDB and RDBMS",
-            projectTechnologies: ["Java", "JUnit", "Maven", "Git", "GitLab", "IntelliJ", "Data Structures", "Algorithms"],
-            projectAWSTechnologies: null,
-            projectGCPTechnologies: null,
-            projectDuration: "May 2021 - Aug 2021",
-            projectAbout: "A Simple Custom Relational Database (RDB) and its Management System (RDBMS) provides features like Multi-factor authentication, Query Parser (For DDL, DQL, DML and TCL Queries), Query Processor (For DDL, DQL, DML and TCL Queries), Data Dictionary Generator/View, Meta Data Generator/View, SQL Dump Generator/View (SQL Dump Export), SQL Dump Import, ERD Generator/View, and Log Generator/View (General Logs, Query Logs, Event Logs).",
-            projectGitHubLink: null,
-            projectDeploymentLink: null
-        },
+        // {
+        // projectName: "Simple RDB and RDBMS",
+        //projectTechnologies: ["Java", "JUnit", "Maven", "Git", "GitLab", "IntelliJ", "Data Structures", "Algorithms"],
+        //projectAWSTechnologies: null,
+        //projectGCPTechnologies: null,
+        //projectDuration: "May 2021 - Aug 2021",
+        //projectAbout: "A Simple Custom Relational Database (RDB) and its Management System (RDBMS) provides features like Multi-factor authentication, Query Parser (For DDL, DQL, DML and TCL Queries), Query Processor (For DDL, DQL, DML and TCL Queries), Data Dictionary Generator/View, Meta Data Generator/View, SQL Dump Generator/View (SQL Dump Export), SQL Dump Import, ERD Generator/View, and Log Generator/View (General Logs, Query Logs, Event Logs).",
+        //projectGitHubLink: null,
+        //projectDeploymentLink: null
+        // },
 
 
     ],
