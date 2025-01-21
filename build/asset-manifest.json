@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46090876.css",
+    "main.js": "/static/js/main.ba64402e.js",
+    "static/media/dalhousie_university.jpg": "/static/media/dalhousie_university.571d814f30ea4f32c107.jpg",
+    "static/media/dhruvi_image_4.jpg": "/static/media/dhruvi_image_4.426bcf8106cee029c455.jpg",
+    "static/media/gujarat_technological_university.jpg": "/static/media/gujarat_technological_university.3e1cb099fc20b52d085f.jpg",
+    "index.html": "/index.html",
+    "main.46090876.css.map": "/static/css/main.46090876.css.map",
+    "main.ba64402e.js.map": "/static/js/main.ba64402e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46090876.css",
+    "static/js/main.ba64402e.js"
+  ]
+}
