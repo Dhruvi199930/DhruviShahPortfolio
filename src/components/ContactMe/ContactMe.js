@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { Typography, Divider, Grid, Button } from '@material-ui/core';
 import { LinkedIn, GitHub, Instagram, Facebook, Twitter, Email } from '@material-ui/icons';
-import Lottie from 'react-lottie';
+import Lottie from 'lottie-react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import * as contactMeData from '../../assets/lottie_animations/contact_me.json';
