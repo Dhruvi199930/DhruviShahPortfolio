@@ -29,12 +29,12 @@ export const portfolio = {
             ],
             work: [
 
-                "Managed and maintained a dynamic web system powered by Drupal, a highly customizable content management system, utilizing strong proficiency in MySQL and PHP.",
-                "Utilized MySQL and PHP expertise to ensure seamless integration of database functionalities within the Drupal environment.",
-                "Enhanced frontend user experience through proficient use of JavaScript, CSS, and HTML5, resulting in an improved interface for subscribers.",
-                "Collaborated with the development team to implement customized solutions, leveraging Drupal's advanced features to enhance the system's performance.",
-                "Actively contributed to technical discussions, leveraging cross-functionalskills to bridge the gap between backend database management andfrontend UI/UX improvements",
-                "Actively contributed to technical discussions, leveraging cross-functional skills to bridge the gap between backend database management and frontend UI/UX improvements."
+                "Designed and implemented dynamic, user-friendly front-end features using React.js, enhancing the overall user experience and subscriber engagement.",
+                "Collaborated on UI/UX design improvements, ensuring intuitive interfaces and seamless user interactions, aligned with modern design principles.",
+                "Developed and maintained full-stack solutions by integrating React.js for the front end and Laravel for the back end, optimizing system performance and scalability.",
+                "Managed CI/CD pipelines using AWS services, automating deployments, and streamlining development workflows to ensure rapid delivery of high-quality updates..",
+                "Actively participated in technical discussions and decision-making, bridging the gap between backend database management and React-driven UI/UX enhancements.",
+                "Implemented cloud-based solutions and infrastructure improvements on AWS, enabling scalability and reliability for critical application components."
             ]
         },
         {
@@ -48,16 +48,11 @@ export const portfolio = {
             ],
             work: [
 
-                "Worked on a development and designing of website of  the product called Head Mount Device using MERN stack where worked with React.js for front-end, node.js and Express.js for back-end of application and MongoDB for database.",
-                "Developed and designed reusable, testable and efficient code in framework React and languages including JavaScript, CSS, HTML,TypeScript.",
-                "Developed, designed and deployed various RESTful API using Jekins.",
-                "Use of REST APIs to connect backend of node.js to respond to requests.",
-                "Dockerized the application and deployed the application with AWS services.",
-                "Worked in developing and designing Python based eye-relief software with opencv library.",
-                "Developed different features and added functionalities and maintained the webiste according to the requirements of the company",
-                "The product Head Mount device is used for Glaucoma eye disease which is being developed for the better future of people.",
-                "Connected hardware code in c++ with the Node.js based web application.",
-                "Used Postman to test the APIs."
+                "Contributed to the development and design of the website for the Head Mount Device product as a MERN stack developer, leveraging React, Node.js, MongoDB, and JavaScript..",
+                "Integrated hardware communication by connecting C++ code with the Node.js-based application, enabling real-time interactions with the device.",
+                "Utilized REST APIs to manage backend interactions and streamline data flow between components.",
+                "Dockerized the application for consistent development and production environments, and deployed it using AWS services for scalable and reliable hosting..",
+                "Collaborated with teams using JIRA, conducted code reviews, and implemented best practices to maintainhigh-quality standards."
             ]
         },
         {
@@ -65,14 +60,9 @@ export const portfolio = {
             position: "Web Developer  | Aug 2020 - Nov 2020",
             projects: [],
             work: [
-                "Worked as Java Software developer on a several projects using agile with scrum methodology.",
-                "Designed and Developed efficient, reusable and maintainable code for data entry application.",
-                "Hibernate application integration in SpringBoot MVC with Mavan building. ",
-                "Reviews, coded and debugged problems and corrected issues.",
-                "Designed and developed multiple Ecommerce websites with CMS development.",
-                "Adapted creation of scripts using JavaScript, HTML5, CSS3, bootstrap as a web developer toconvey unique branding and marketing strategies.",
-                "Supported intricate backend needs and lending assistance throughout Software Development lifecycle.",
-                "Engaged with clients on every milestone and tried to meet up with their expectation from the project."
+                "Designed and developed multiple e-commerce websites using CMS platforms, delivering customized solutions to meet client requirements.",
+                "Created and optimized scripts using JavaScript, HTML5, CSS3, and Bootstrap to craft engaging user interfaces that align with unique branding and marketing strategies.",
+                "Diagnosed and resolved technical issues efficiently, ensuring smooth website performance and a seamless user experience, with minimal downtime. "
             ]
         },
         {
@@ -80,12 +70,10 @@ export const portfolio = {
             position: "Java Developer  | July 2019 - Sept 2019",
             projects: [],
             work: [
-                "Worked as java developer for the company where worked on developing application about online food ordering.",
-                "Developed Springboot applications  and micro-services.",
-                "Tested the application for unit and functional testing using Junit to ensure security of application.",
-                "Worked in designing and implementing different projects as a beginner",
-                "Learned to work in a professional environment with solving problems, troubleshooting solutions to complex issues",
-                "eveloped efficient and maintanable application according to the business objective and needs of the client.   "
+                "Assisted in the development of an online food ordering application following the Agile Scrum methodology,gaining hands-on experience in collaborative team environments.",
+                "Supported the creation of Spring Boot applications and microservices to improve platform functionality under guidance from senior developers..",
+                "Participated in unit testing and functional testing activities to ensure application security and reliability,enhancing understanding of software quality assurance practices.",
+                "Worked in designing and implementing different projects as a beginner"
             ]
         },
 
